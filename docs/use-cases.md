@@ -8,8 +8,7 @@
 - [盛泰光电携手DataEase实现数据驱动智能制造](https://blog.fit2cloud.com/?p=ef5f7c8b-09c0-4016-a67d-d733b6ff776c)
 - [硬之城借助DataEase以数据驱动供应链精细化管理](https://blog.fit2cloud.com/?p=8d2ad36d-8727-4e02-bafb-65a6e644f4de)
 - [社区分享｜百果园选择DataEase搭档蜜蜂微搭实现企业数据应用一体化](https://blog.fit2cloud.com/?p=364cd03d-9e73-4bed-8add-5d8ec4d9bf6d)
-- TBD
-- TBD
+- [案例研究｜DataEase助力众陶联应对产业链数据可视化挑战](https://blog.fit2cloud.com/?p=1a4f85dd-c73c-4286-a667-3596514cf617)
 - TBD
 - TBD
 - TBD
